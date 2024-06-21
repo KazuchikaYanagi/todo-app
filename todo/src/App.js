@@ -3,7 +3,7 @@ import TodoItem from "./TodoItem";
 
 // Add API base
 // const API_BASE = "https://todo-list-api-ozu8.onrender.com/todo";
-const API_BASE = "http://localhost:10000/todo";
+const API_BASE = "https://todo-app-gamma-navy.vercel.app/todo";
 
 function App() {
   // Add useState, we will store items in the array

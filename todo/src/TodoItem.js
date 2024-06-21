@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 // Add API, we will need it later when we send a delete request
 // const API_BASE = "https://todo-list-api-ozu8.onrender.com/todo";
-const API_BASE = "http://localhost:10000/todo";
+const API_BASE = "https://todo-app-gamma-navy.vercel.app/todo";
 
 const TodoItem = (props) => {
   // Pass down props
